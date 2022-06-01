@@ -14,5 +14,5 @@
     <h2>How To Run Project</h2>
     <ul>
         <li>If you like you can clone this repository on your local machine and open index.html file with any browser.</li>
-        <li>I also published this app on web. You can click <a href="">link</a> and give a try this app.</li>
+        <li>I also published this app on web. You can click <a href="https://blgnrsoftdev.github.io/Hamming_Code_Calculator/">link</a> and give a try this app.</li>
     </ul>
