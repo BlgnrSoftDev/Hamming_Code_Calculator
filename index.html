@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=q, initial-scale=1.0">
+    <script DEFER src="./asset/util.js"></script>
+    <script DEFER src="./asset/index.js"></script>
+    <title>Document</title>
+    <link rel="stylesheet" href="./index.css">
+
+</head>
+<body>
+
+        <div class="middle-container">
+            <h1>Hamming Code Caculator</h1>
+            <hr noshade>
+            <label class="label" for="hamming-input">Please, Enter Binary Number Which You Want to Convert to hamming-code</label>
+            <input type="text" id="hamming-input" class="input-field" autofocus>
+            <button class="screen-button" id="convert-button">Convert</button>
+
+            
+            <div class="output-container">
+                    <hr>
+                    <label class="label" id="output-title">Calculated Hamming Code is below :</label>
+                    <output class="output-screen" id="output-screen">
+                    </output>    
+            </div>
+
+            
+            <div class="error-container">
+                <hr>
+                <label class="label"for="error-input">If you want to change <span class="important-text-piece"> just one bit </span>at a specific position <br /> Please, Enter changed hamming-code :</label>
+                <input type="text" id="error-input" class="input-field">
+                <button class="screen-button" id="change-button">Change</button>
+            </div>
+
+        </div>
+
+
+
+
+
+</body>
+</html>
