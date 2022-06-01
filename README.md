@@ -1,3 +1,4 @@
+    
     <h1>HAMMING CODE CALCLUTATOR</h1>
     <h2>What is Hamming Code ?</h2>
     <p>In computer science and computer networks, Hamming codes are used to detect bit errors during transmission. Hamming codes can detect 1 and 2 bit errors but it can only correct 1 bit errors. Hamming codes named after his inventor <i> Richard W. Hamming</i>.</p>
@@ -13,5 +14,4 @@
     <ul>
         <li>If you like you can clone this repository on your local machine and open index.html file with any browser.</li>
         <li>I also published this app on web. You can click <a href="">link</a> and give a try this app.</li>
-    </ul>
-
+    </ul> 
