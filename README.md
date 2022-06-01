@@ -1,3 +1,2 @@
-    #HAMMING CODE CALCLUTATOR
-    
-
+sadasd
+dfdsfsd
