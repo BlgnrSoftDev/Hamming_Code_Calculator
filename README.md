@@ -1,2 +1,17 @@
-# Hamming_Code_Calculator
-BLM0220 Computer Architecture and Organization Course Project.
+    <h1>HAMMING CODE CALCLUTATOR</h1>
+    <h2>What is Hamming Code ?</h2>
+    <p>In computer science and computer networks, Hamming codes are used to detect bit errors during transmission. Hamming codes can detect 1 and 2 bit errors but it can only correct 1 bit errors. Hamming codes named after his inventor <i> Richard W. Hamming</i>.</p>
+
+    <h2>Project Details</h2>
+    <p><strong>In this project, only single error detection and single error correction can be done.!</strong</p>
+    <ul>
+        <li>You can enter data with any length you want.</li>
+        <li>After clicked convert button, You can see Syndrome word(parity bits embedded inside data bits.) and calculated parity bits, respectively.</li>
+        <li>If you like you can make mistakes on stored syndrome word with entering your changed syndrome word to second input field and click <strong> change </strong>button. Then program will detect and show fixed syndrome and position which error is occured.</li>
+    </ul>
+    <h2>How To Run Project</h2>
+    <ul>
+        <li>If you like you can clone this repository on your local machine and open index.html file with any browser.</li>
+        <li>I also published this app on web. You can click <a href="">link</a> and give a try this app.</li>
+    </ul>
+
