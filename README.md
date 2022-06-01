@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/tel4DU3dCiDdVUPhIg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/blockfi-vintage-future-futuristic-tel4DU3dCiDdVUPhIg">via GIPHY</a></p>
+<img src="https://giphy.com/gifs/blockfi-vintage-future-futuristic-tel4DU3dCiDdVUPhIg">
 <h2>What is Hamming Code ?</h2>
     <p>In computer science and computer networks, Hamming codes are used to detect bit errors during transmission. Hamming codes can detect 1 and 2 bit errors but it can only correct 1 bit errors. Hamming codes named after his inventor <i> Richard W. Hamming</i>.</p>
 
